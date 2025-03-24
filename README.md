@@ -64,9 +64,9 @@ This repository follows a well-structured architecture to ensure scalability, ma
 ![banner](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/hero.png)
 ![first](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/banner.png)
 ![second](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/third.png)
-![fourth](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/fourth.png)
+![fourth](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/fourth.PNG)
 ![six](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/fifth.png)
-![first](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/six.png)
+![first](https://raw.githubusercontent.com/fleekbiz/spend-money-demo/main/assets/six.PNG)
 
 
 ---
